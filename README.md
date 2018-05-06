@@ -1,2 +1,2 @@
 # MyListCtrl
-an extend the mfc listctrl class.
+I collect and rich a class that extend the mfc listctrl. some main code isn't my result.
